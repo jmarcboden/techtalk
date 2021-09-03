@@ -800,3 +800,10 @@ footer a .icons {
   right: 20px;
   top: 40%;
 }
+
+.red{
+  background-color: red;
+}
+.violet{
+  background-color: blueviolet;
+}
